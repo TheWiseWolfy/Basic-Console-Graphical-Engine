@@ -1,0 +1,8 @@
+﻿  ApetreiEngine.cpp
+E:\Projects\Programming\ApetreiEngine\ApetreiEngine\ApetreiEngine\ApetreiEngine.cpp(175,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Programming\ApetreiEngine\ApetreiEngine\ApetreiEngine\ApetreiEngine.cpp(175,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Programming\ApetreiEngine\ApetreiEngine\ApetreiEngine\ApetreiEngine.cpp(174,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Programming\ApetreiEngine\ApetreiEngine\ApetreiEngine\ApetreiEngine.cpp(174,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Programming\ApetreiEngine\ApetreiEngine\ApetreiEngine\ApetreiEngine.cpp(173,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Programming\ApetreiEngine\ApetreiEngine\ApetreiEngine\ApetreiEngine.cpp(173,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ApetreiEngine.vcxproj -> E:\Projects\Programming\ApetreiEngine\ApetreiEngine\Debug\ApetreiEngine.exe
